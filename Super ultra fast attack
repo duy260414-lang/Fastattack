@@ -1,0 +1,4 @@
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/duy260414-lang/Fastattack/refs/heads/main/Fastattackv1"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/duy260414-lang/Fastattack/refs/heads/main/Ultrafastattack"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDzaiScript/Setting/refs/heads/main/FastMax.lua"))()
